@@ -3,6 +3,7 @@
 Website resmi BMFTI (Badan Mahasiswa Fakultas Teknologi Informasi), sebuah organisasi kemahasiswaan yang berfokus pada pengembangan potensi akademik, teknologi, dan kepemimpinan mahasiswa di bidang Teknologi Informasi.
 
 🔗 **Demo:
+https://688a61696a3cb527f0e576fb--chimerical-cendol-1e47e4.netlify.app/ 
 
 ---
 
